@@ -74,7 +74,6 @@
       /></a>
     </div>
     
-    ##
     
     ![Snake animation](https://github.com/eduardojmrosa/blob/output/github-contribution-grid-snake.svg)
   
