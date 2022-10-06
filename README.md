@@ -76,5 +76,5 @@
     
     ##
     
-    ![Snake animation](https://github.com/eduardojmrosa/eduardojmrosa/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/eduardojmrosa/blob/output/github-contribution-grid-snake.svg)
   
