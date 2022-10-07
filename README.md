@@ -1,4 +1,4 @@
- ## Olar, eu sou Eduardo Mello, eterno estudante de tecnologia
+ ## Olar, eu sou Eduardo Mello, entusiasta de tecnologia
 - ☠  Interessado em aprender, ensinar e envolver as pessoas com tecnologia
 - 🐱‍👤 Atualmente estudando Javascript, Node.js, React.js
 - 🤖 Contate-me pelo meu email ou linkedin no perfil
