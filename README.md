@@ -1,6 +1,6 @@
  ## Olar, eu sou Eduardo Mello, entusiasta de tecnologia
 - ☠  Interessado em aprender, ensinar e envolver as pessoas com tecnologia
-- 🐱‍👤 Atualmente estudando Javascript, Node.js, React.js
+- 🐱‍👤 Atualmente estudando Javascript, Node.js, React.js, alguma coisa com Docker e Nest.js. Next.js também está no meu pipe de estudos.
 - 🤖 Contate-me pelo meu email ou linkedin no perfil
 - 👾 Meus pronomes são ele/dele
 
