@@ -2,7 +2,6 @@
 - ☠  Interessado em aprender, ensinar e envolver as pessoas com tecnologia
 - 🐱‍👤 Atualmente estudando Javascript, Node.js, React.js, alguma coisa com Docker e Nest.js. Next.js também está no meu pipe de estudos.
 - 🤖 Contate-me pelo meu email ou linkedin no perfil
-- 👾 Meus pronomes são ele/dele
 
 ![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardojmrosa&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojmrosa&show_icons=true&theme=radical)](https://github.com/eduardojmrosa/github-readme-stats)
