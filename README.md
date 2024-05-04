@@ -1,7 +1,7 @@
- ## Olar, eu sou Eduardo Mello, entusiasta de tecnologia
-- ☠  Interessado em aprender, ensinar e envolver as pessoas com tecnologia
-- 🐱‍👤 Atualmente estudando Javascript, Node.js, React.js, alguma coisa com Docker e Nest.js. Next.js também está no meu pipe de estudos.
-- 🤖 Contate-me pelo meu email ou linkedin no perfil
+ ## Hi, i am Eduardo Mello, tech enthusiast
+- ☠  Passionate about learning, teaching, and connecting people through technology. I thrive on the excitement of discovering new concepts, sharing knowledge with others, and creating engaging experiences with technology. Whether it's diving into the latest coding languages or helping someone grasp a tricky concept, I find joy in every step of the learning and teaching process. Let's build a tech-savvy community together!
+- 🐱‍👤 Working with Javascript, Node.js, React.js, Docker and Nest.js.
+- 🤖 You can reach me with email or linkedin profile.
 
 ![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardojmrosa&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardojmrosa&show_icons=true&theme=radical)](https://github.com/eduardojmrosa/github-readme-stats)
